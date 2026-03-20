@@ -72,7 +72,7 @@ Clone this repository into your `ComfyUI/custom_nodes/` directory:
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/YOUR_USERNAME/ComfyUI-API-Optimizer.git
+git clone https://github.com/jeremieLouvaert/ComfyUI-API-Optimizer.git
 pip install -r ComfyUI-API-Optimizer/requirements.txt
 ```
 
